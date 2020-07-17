@@ -1,6 +1,6 @@
-<h2> Hi, I'm César Rodríguez! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi 👋, I'm César Rodríguez! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/RyXVu4ZW454IM/giphy.gif" width="230">
-<p><em>CTO at <a href="https://orbiter.co/">Orbiter</a>
+<p><em>CTO at <a href="https://orbiter.co/">Orbiter</a> ⛓
 </em></p>
 
 [![Twitter: kesarito](https://img.shields.io/twitter/follow/kesarito?style=social)](https://twitter.com/kesarito)
@@ -21,4 +21,4 @@ const kesar = {
 ```
 
 <center><img src="https://media.giphy.com/media/O8oPnvoMi31mw/giphy.gif" width="240" align="center"> 
-  <br><em><b>Feel free to drop me a message in some of my social channels :)</em></center>
+  <br><em><b>Feel free to drop me a message in any of my social channels 👍</em></center>
