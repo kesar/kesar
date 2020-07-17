@@ -14,20 +14,11 @@
 const kesar = {
   pronouns: "he" | "él",
   code: [PHP, C++, Javascript, Typescript, HTML, CSS, Python, Go],
-  tools: [React, Redux, Node, NextJS, ROS, ROS2, Docker, EOS],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
-                      },
- challenge: "Building robots"
+  tools: [React, Redux, Node, NextJS, ROS, ROS2, Docker, EOS, Kubernetes],
+  architecture: ["microservices", "event-driven", "design system pattern", "DRY"],
+  challenge: "Building next generation of robots 🤖"
 }
 ```
 
 <center><img src="https://media.giphy.com/media/O8oPnvoMi31mw/giphy.gif" width="240" align="center"> 
   <br><em><b>Feel free to drop me a message in some of my social channels :)</em></center>
-
----
-
-⭐️ From [@kesar](https://github.com/kesar)
