@@ -22,3 +22,10 @@ const kesar = {
 
 <center><img src="https://media.giphy.com/media/O8oPnvoMi31mw/giphy.gif" width="240" align="center"> 
   <br><em><b>Feel free to drop me a message in any of my social channels 👍</em></center>
+  
+
+| | |
+|----------|:-------------:|
+| ![kesarito stats](https://github-readme-stats.vercel.app/api?username=kesar&theme=material-palenight&count_private=true&show_icons=true) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kesar&layout=compact&theme=material-palenight)](https://github.com/kesar) |
+
+
