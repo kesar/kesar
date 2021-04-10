@@ -13,7 +13,7 @@
 ```javascript
 const kesar = {
   pronouns: "he" | "él",
-  code: [Solidity, C++, JS, PHP, C++, TS],
+  code: [Solidity, C++, JS, PHP, Go, TS],
   tools: [React, NestJS, Node, NextJS, ROS, ROS2, Docker, EOS, Ethereum],
   architecture: ["microservices", "event-driven", "design system pattern", "DRY"],
   challenge: "Building next generation of robots 🤖"
