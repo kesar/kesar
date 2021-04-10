@@ -1,6 +1,6 @@
 <h2> Hi 👋, I'm César Rodríguez! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/RyXVu4ZW454IM/giphy.gif" width="230">
-<p><em>CTO at <a href="https://orbiter.co/">Orbiter</a> ⛓
+<p><em>Director of Engineering at <a href="https://everipedia.com/">Everipedia</a> ⛓
 </em></p>
 
 [![Twitter: kesarito](https://img.shields.io/twitter/follow/kesarito?style=social)](https://twitter.com/kesarito)
@@ -13,8 +13,8 @@
 ```javascript
 const kesar = {
   pronouns: "he" | "él",
-  code: [PHP, C++, Javascript, Typescript, HTML, CSS, Python, Go],
-  tools: [React, Redux, Node, NextJS, ROS, ROS2, Docker, EOS, Kubernetes],
+  code: [Solidity, C++, JS, PHP, C++, TS],
+  tools: [React, NestJS, Node, NextJS, ROS, ROS2, Docker, EOS, Ethereum],
   architecture: ["microservices", "event-driven", "design system pattern", "DRY"],
   challenge: "Building next generation of robots 🤖"
 }
